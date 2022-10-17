@@ -6,7 +6,7 @@ import SmallCard from "../components/SmallCard"
 import MeduimCard from "../components/MediumCard"
 import LargeCard from "../components/LargeCard"
 import Footer from "../components/Footer"
-import Header from "../Components/Header";
+import Header from "../Components/Header.jsx";
 import Banner from "../components/Banner";
 
 const Home = () => {
