@@ -105,7 +105,6 @@ const Home = () => {
           </div>
         </section>
         <LargeCard img="https://links.papareact.com/4cj" title="The Greatest Outdoors" description="wishlists curated by Airbnb." buttonText="Get Inspired" />
-
       </main>
       <Footer />
     </div>
