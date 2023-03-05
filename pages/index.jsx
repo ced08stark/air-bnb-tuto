@@ -9,7 +9,9 @@ import Footer from "../components/Footer"
 import Header from "../components/Header.jsx";
 import Banner from "../components/Banner";
 
+
 const Home = () => {
+
 
   const mediumDataExplore = [
     {
